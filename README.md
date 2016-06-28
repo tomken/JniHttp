@@ -4,7 +4,7 @@
 
 示例:
 
-```c
+```cpp
 vector<HttpPostChunk*> fields;
 fields.push_back(new HttpPostInputChunk("server", "jeeble"));
 fields.push_back(new HttpPostInputChunk("leader", "xxxx"));
